@@ -48,5 +48,8 @@ python cli/train_final.py --source_lang da --target_lang en --output_dir en_outp
 ## Live Application Testing
 You can find danish-english translafor app publicly available at: https://huggingface.co/spaces/ftakelait/da_en_translation
 
+<img width="960" alt="da-en-translator-app" src="https://user-images.githubusercontent.com/30809571/167060924-7b5d314c-d716-4edc-9c26-53db42e94379.png">
+
+
 ## Report
 You can find danish-english machine translation report publicly available in Overleaf at: https://www.overleaf.com/read/jfhtbffxmksg
