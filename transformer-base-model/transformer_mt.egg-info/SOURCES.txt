@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+transformer_mt.egg-info/PKG-INFO
+transformer_mt.egg-info/SOURCES.txt
+transformer_mt.egg-info/dependency_links.txt
+transformer_mt.egg-info/requires.txt
+transformer_mt.egg-info/top_level.txt
