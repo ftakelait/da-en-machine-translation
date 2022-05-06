@@ -45,3 +45,8 @@ python cli/create_target_tokenizer.py  --vocab_size 32000  --save_dir en_output_
 python cli/train_final.py --source_lang da --target_lang en --output_dir en_output_dir --batch_size 32 --num_warmup_steps 5000 --learning_rate 3e-4 --num_train_epochs 1 --eval_every 5000
 ```
 
+## Live Application Testing
+You can find danish-english translafor app publicly available at: https://huggingface.co/spaces/ftakelait/da_en_translation
+
+## Report
+You can find danish-english machine translation report publicly available in Overleaf at: https://www.overleaf.com/read/jfhtbffxmksg
