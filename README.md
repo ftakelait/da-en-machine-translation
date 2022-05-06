@@ -1,4 +1,7 @@
-This repository contains code for the two models: RoBerta-base--model and transformer-base-model.
+# Danish-English Neural Machine Translation
+
+## Introduction
+In this work, we apply two transfoermer models to the EuroParl Danish-English dataset for a translation task. This repository contains code for the two models: RoBerta-base--model and transformer-base-model.
 
 Transformer Base Model:
 1. To train and create tokenizers for the model from scratch run the following code as as example in the "transformer-base-model" directory:
