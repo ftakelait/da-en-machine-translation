@@ -52,4 +52,4 @@ You can find danish-english translafor app publicly available at: https://huggin
 
 
 ## Report
-You can find danish-english machine translation report publicly available in Overleaf at: https://www.overleaf.com/read/jfhtbffxmksg
+You can find danish-english machine translation report publicly available in Overleaf at: https://www.overleaf.com/read/jfhtbffxmksg 
