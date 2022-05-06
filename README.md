@@ -7,6 +7,6 @@ Transformer Base Model:
 
 
 RoBerta-base--model:
-1. To use the pre-trained RoBerta model, first create the target tokenizer by running the following code as an example: python cli/create_target_tokenizer.py  --vocab_size 32000  --save_dir en_output_dir --target_lang en 
-2. Once the target language's tokenizer is created run the following code as an example: python cli/train_final.py --source_lang da --target_lang en --output_dir en_output_dir --batch_size 32 --num_warmup_steps 5000 --learning_rate 3e-4 --num_train_epochs 1 --eval_every 5000.
+1. To use the pre-trained RoBerta model, first create the target tokenizer by running the following code as an example: `python cli/create_target_tokenizer.py  --vocab_size 32000  --save_dir en_output_dir --target_lang en` 
+2. Once the target language's tokenizer is created run the following code as an example: `python cli/train_final.py --source_lang da --target_lang en --output_dir en_output_dir --batch_size 32 --num_warmup_steps 5000 --learning_rate 3e-4 --num_train_epochs 1 --eval_every 5000`.
 
